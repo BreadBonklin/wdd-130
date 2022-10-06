@@ -1,0 +1,47 @@
+html {
+    background-color: hotpink;
+}
+.education {
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+.education:hover {
+    color: black;
+}
+#upper_quote {
+    text-align: center;
+    color: white;
+    font-size: 125%;
+}
+#crediting {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+}
+div.container {
+    text-align: center;
+}
+ol.list {
+    display: inline-block;
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 2;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#lower-quote {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+#organization {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
