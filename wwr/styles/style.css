@@ -54,7 +54,7 @@ nav a:hover{
     color: #A43312;
     margin-top: 10px;
 }
-.book .join{
+.book{
     font-size: 18px;
     color: #A43312;
     text-decoration: none;
@@ -65,7 +65,7 @@ nav a:hover{
 .book:hover{
     background-color: #E7C24F;
     color: #A43312;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 
@@ -80,10 +80,18 @@ main section img{
     width: 80px;
     padding-top: 10px;
 }
+.join{
+    font-size: 18px;
+    color: #A43312;
+    text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
 .join:hover{
     background-color: #A43312;
     color: #E7C24F;
-    text-decoration: underline;
+    text-decoration: none;
 }
 .button-box{
     text-align: center;
